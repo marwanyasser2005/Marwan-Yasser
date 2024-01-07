@@ -69,7 +69,7 @@ I'm Marwan, currently pursuing my studies at the Faculty of Science, Helwan Univ
   - Project Management Specialization
 
 - Coursera, University of Michigan - Apr. 2023
-  - Python for everybody Specialization
+  - Python for Everybody Specialization
 
 - Future Learning - Apr. 2023
   - Applied Data Science Lab
@@ -88,7 +88,7 @@ I'm Marwan, currently pursuing my studies at the Faculty of Science, Helwan Univ
 - Career Essentials in Sustainable Tech - Microsoft & LinkedIn
 
 ### Connect with Me
-- 📧 Email: marwanyasser23@science.helwan.edu.eg
+- 📧 Email: [Email](marwanyasser23@science.helwan.edu.eg)
 - 💼 LinkedIn: [Marwan Yasser](www.linkedin.com/in/marwanyasser2005)
 
 ---
